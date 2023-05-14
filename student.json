@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "name": "Akash Bansal",
+      "registrationNumber": 11915578,
+      "password": "4444",
+      "timeOfClass": "12--1",
+      "email": "akash@gmail.com"
+    },
+    {
+      "name": "Aman Kumar",
+      "registrationNumber": 11895463,
+      "password": "4444",
+      "timeOfClass": "3--4",
+      "email": "aman@gmail.com"
+    },
+    {
+      "name": "Ravi Pratap",
+      "registrationNumber": 12237480,
+      "password": "4444",
+      "timeOfClass": "3--4",
+      "email": "ravi@gmail.com"
+    },
+    {
+      "name": "Saurav Kumar",
+      "registrationNumber": 11009224,
+      "password": "4444",
+      "timeOfClass": "12--1",
+      "email": "saurav@gmail.com"
+    },
+    {
+      "name": "Piyush Gupta",
+      "registrationNumber": 11329085,
+      "password": "4444",
+      "timeOfClass": "12--1",
+      "email": "piyush@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+.login {
+  text-align: center;
+
+  .col-md-6 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
+
+.bottomNav {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  right: 0;
+}
+
+.bottomNav>div {
+  background: #0d6efd;
+  padding: 16px 0;
+  height: unset;
+
+  svg {
+    fill: #fff;
+  }
+
+  span {
+    color: #fff;
+  }
+}
