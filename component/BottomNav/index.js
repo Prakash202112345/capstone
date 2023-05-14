@@ -24,7 +24,7 @@ function BottomNav() {
         }}
       >
         <BottomNavigationAction label="Get Attendance" icon={<RestoreIcon />} onClick={handleClick} />
-        <BottomNavigationAction label="View Acitivity" icon={<FavoriteIcon />} />
+        <BottomNavigationAction label="Log out" icon={<FavoriteIcon />} />
       </BottomNavigation>
 
     </>
