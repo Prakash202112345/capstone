@@ -47,7 +47,7 @@ function Login() {
   }
   return (
     <>
-      <Header HeaderText={Login} />
+      <Header HeaderText={"Login"} />
       <section className="login">
         <div className="container">
           <div className="row ">
